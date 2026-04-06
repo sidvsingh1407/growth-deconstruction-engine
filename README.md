@@ -25,11 +25,11 @@ Complete the setup task using Cursor + GitHub, while building a small working pr
 
 * Installed Cursor IDE
 * Explored extension marketplace inside Cursor
-* Searched for required extensions ("Claude Code", "Codex")
+* Searched for required extensions ("Claude Code")
 * Created a public GitHub repository
 * Opened repository in Cursor
 * Created and structured README.md
-* Built a simple working project (index.html using Gemini API)
+* Built a simple working project (using Gemini API)
 * Committed changes using Git
 * Pushed repository to GitHub
 
@@ -64,7 +64,7 @@ Complete the setup task using Cursor + GitHub, while building a small working pr
 * Focused on completing outcome rather than getting stuck
 
 
-## What I Built (Optional Extension)
+## What I Built
 
 As part of exploring the tools, I built:
 
@@ -79,7 +79,7 @@ A simple web app that applies a 6-layer framework to analyze how any system grow
 5. Expansion Loop
 6. Unfair Advantage
 
-
+ 
 ## Key Insight
 
 Growth is context-dependent.
