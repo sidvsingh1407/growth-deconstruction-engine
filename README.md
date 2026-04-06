@@ -95,5 +95,5 @@ Instead of scoring systems, the framework identifies the **unfair advantage** th
 
 ## Built By
 
-Siddharth
+Siddharth Vikram Singh |
 MBA Finance | Growth & Strategy
